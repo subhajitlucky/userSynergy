@@ -20,7 +20,7 @@ It fulfils the assignment requirements by fetching, creating, updating, and dele
 | Loading states | ✅ (bonus) | `Loader` component for list/detail requests |
 | TypeScript usage | ✅ (bonus) | Strict `User` types & typed props |
 | Code comments | ✅ | Key flows and API interactions are documented in the codebase |
-| GitHub repo & live deployment | ⏳ | Add your public repo URL + deployed URL here once ready |
+| GitHub repo & live deployment | ✅ | Repo and live demo links added below |
 
 ---
 
@@ -113,11 +113,10 @@ Because JSONPlaceholder is a mock API, create/update/delete requests echo the re
 
 ---
 
-## ✅ Current Status
+## 🔗 Links
 
-- [x] Clarifying comments added to key components and API helpers.
-- [ ] Publish repository publicly on GitHub.
-- [ ] Deploy to Vercel or Netlify and record the live URL.
+- GitHub Repo: https://github.com/subhajitlucky/userSynergy
+- Live Demo: https://usersynergy.vercel.app/
 
 ---
 
